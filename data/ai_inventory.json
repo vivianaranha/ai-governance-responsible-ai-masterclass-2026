@@ -1,0 +1,32 @@
+[
+  {
+    "system_id": "AI-001",
+    "name": "Employee Knowledge Assistant",
+    "owner": "CIO",
+    "purpose": "Answer employee policy questions",
+    "users": "employees",
+    "deployment_status": "production",
+    "risk_tier": "medium",
+    "type": "RAG"
+  },
+  {
+    "system_id": "AI-002",
+    "name": "Candidate Screening Assistant",
+    "owner": "CHRO",
+    "purpose": "Rank applicant resumes for recruiter review",
+    "users": "recruiters",
+    "deployment_status": "pilot",
+    "risk_tier": "high",
+    "type": "ML/GenAI"
+  },
+  {
+    "system_id": "AI-003",
+    "name": "Refund Operations Agent",
+    "owner": "COO",
+    "purpose": "Investigate and initiate eligible refunds",
+    "users": "service operations",
+    "deployment_status": "pilot",
+    "risk_tier": "critical",
+    "type": "Agent"
+  }
+]

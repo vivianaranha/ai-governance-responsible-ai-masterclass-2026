@@ -1,0 +1,52 @@
+[
+  {
+    "control_id": "GOV-001",
+    "name": "Named accountable owner",
+    "category": "governance"
+  },
+  {
+    "control_id": "INV-001",
+    "name": "Registered in AI inventory",
+    "category": "inventory"
+  },
+  {
+    "control_id": "RISK-001",
+    "name": "Risk assessment completed",
+    "category": "risk"
+  },
+  {
+    "control_id": "DATA-001",
+    "name": "Data use and retention documented",
+    "category": "data"
+  },
+  {
+    "control_id": "EVAL-001",
+    "name": "Representative evaluation completed",
+    "category": "evaluation"
+  },
+  {
+    "control_id": "SEC-001",
+    "name": "AI security threat assessment completed",
+    "category": "security"
+  },
+  {
+    "control_id": "HUM-001",
+    "name": "Human oversight defined for consequential actions",
+    "category": "human_oversight"
+  },
+  {
+    "control_id": "MON-001",
+    "name": "Production monitoring and incident triggers defined",
+    "category": "monitoring"
+  },
+  {
+    "control_id": "CHG-001",
+    "name": "Material change rules defined",
+    "category": "change"
+  },
+  {
+    "control_id": "EVD-001",
+    "name": "Control evidence retained",
+    "category": "evidence"
+  }
+]

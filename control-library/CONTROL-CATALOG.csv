@@ -1,0 +1,19 @@
+control_id,category,control
+GOV-001,Governance,Accountable AI system owner
+INV-001,Inventory,AI system registered
+RISK-001,Risk,Risk assessment completed
+IMP-001,Impact,Impact assessment completed where required
+DATA-001,Data,Data purpose/access/retention documented
+FAIR-001,Fairness,Fairness assessment performed where relevant
+TRAN-001,Transparency,User/operator transparency requirements defined
+HUM-001,Human Oversight,Human oversight/appeal defined for consequential use
+SEC-001,Security,AI threat model and security testing completed
+EVAL-001,Evaluation,Representative evaluation and thresholds defined
+RAG-001,RAG,Approved sources/permissions/freshness controlled
+AGT-001,Agent,Autonomy/tool/approval controls defined
+VEN-001,Third Party,Vendor/supply-chain assessment completed
+MON-001,Monitoring,Production monitoring and incident triggers defined
+CHG-001,Change,Material-change reassessment rules defined
+INC-001,Incident,AI incident response process defined
+EVD-001,Evidence,Control evidence retained
+REV-001,Review,Periodic governance review scheduled
